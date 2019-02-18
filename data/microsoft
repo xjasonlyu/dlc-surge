@@ -1,0 +1,18 @@
+# Reference: https://support.microsoft.com/en-hk/help/2655102/internet-accessible-urls-required-for-connectivity-to-microsoft-dynami
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,microsoftonline-p.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,passport.net
+DOMAIN-SUFFIX,dynamics.com
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,crmdynint.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,microsofttranslator.com
