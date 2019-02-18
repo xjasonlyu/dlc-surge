@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#
+# written by xjasonlyu
+#
+
 import os
 import sys
 

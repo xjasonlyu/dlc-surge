@@ -1,4 +1,5 @@
 #!/bin/bash
+# written by xjasonlyu
 
 cd `dirname $0`
 
