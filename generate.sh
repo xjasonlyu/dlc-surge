@@ -62,7 +62,7 @@ gitUpload()
         git add ${i}
     done
     # commit
-    git commit -m "update dlc to ${NEW_VER}"
+    git commit -m "v${NEW_VER}"
     # push
     git remote add origin ${REPO_URL}
     git remote -v
