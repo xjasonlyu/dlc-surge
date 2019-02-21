@@ -1,0 +1,8 @@
+# Official site
+DOMAIN-SUFFIX,mozilla.org
+# Sub project
+DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,rust-lang.org

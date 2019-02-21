@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,cloudfront.net
 # All .aws domains
 DOMAIN-SUFFIX,aws
+DOMAIN-SUFFIX,avgle.com
 # List of all domains being operated by Dorpbox Inc.
 # Source: https://www.dropbox.com/en/help/security/official-domains
 DOMAIN-SUFFIX,db.tt
@@ -370,20 +371,75 @@ DOMAIN-SUFFIX,dynamics.com
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,crmdynint.com
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,microsofttranslator.com
+# Official site
+DOMAIN-SUFFIX,mozilla.org
+# Sub project
+DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,sun.com
+# Official site
+DOMAIN-SUFFIX,pinterest.com
+# Alternate
+DOMAIN-SUFFIX,pinterest.ie
+DOMAIN-SUFFIX,pinterest.it
+DOMAIN-SUFFIX,pinterest.ch
+DOMAIN-SUFFIX,pinterest.es
+DOMAIN-SUFFIX,pinterest.ca
+DOMAIN-SUFFIX,pinterest.co.uk
+DOMAIN-SUFFIX,pinterest.ru
+DOMAIN-SUFFIX,pinterest.com.au
+DOMAIN-SUFFIX,pinterest.at
+DOMAIN-SUFFIX,pinterest.fr
+DOMAIN-SUFFIX,pinterest.de
+DOMAIN-SUFFIX,pinterest.dk
+DOMAIN-SUFFIX,pinterest.nz
+DOMAIN-SUFFIX,pinterest.jp
+DOMAIN-SUFFIX,pinterest.pt
+DOMAIN-SUFFIX,pinterest.co.kr
+DOMAIN-SUFFIX,pinterest.se
+DOMAIN-SUFFIX,pinterest.com.mx
+DOMAIN-SUFFIX,pinterest.cl
+DOMAIN-SUFFIX,pinterest.ph
+# Others
+DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixiv.co.jp
 DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net
+# RARBG official site
+DOMAIN-SUFFIX,rarbg.to
+# RARBG proxy sites
+DOMAIN-SUFFIX,rarbg.is
+DOMAIN-SUFFIX,rarbg.link
+DOMAIN-SUFFIX,rarbgs.com
+DOMAIN-SUFFIX,rarbgproxy.org
+DOMAIN-SUFFIX,rarbgaccess.org
+DOMAIN-SUFFIX,rarbgmirror.org
+DOMAIN-SUFFIX,rarbgmirror.xyz
+DOMAIN-SUFFIX,rarbgmirror.com
+DOMAIN-SUFFIX,rarbgunblock.com
+DOMAIN,rarbg.unblocked.vc
+DOMAIN,rarbg.bypassed.org
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
@@ -393,10 +449,19 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
+# Reference: 'https://stackexchange.com/sites'
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,serverfault.com
+DOMAIN-SUFFIX,askubuntu.com
+DOMAIN-SUFFIX,superuser.com
+DOMAIN-SUFFIX,sstatic.net
 # Taboola uses this single domain for both official website and ads serving. 
 # Blocking the following domain will prevent taboola ads from displaying,
 # but also cut the connection to Taboola website.
 DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,ted.com
+DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,stel.com
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com

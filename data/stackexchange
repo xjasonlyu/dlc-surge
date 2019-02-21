@@ -1,0 +1,7 @@
+# Reference: 'https://stackexchange.com/sites'
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,serverfault.com
+DOMAIN-SUFFIX,askubuntu.com
+DOMAIN-SUFFIX,superuser.com
+DOMAIN-SUFFIX,sstatic.net

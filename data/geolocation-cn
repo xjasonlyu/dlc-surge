@@ -366,6 +366,8 @@ DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,lofter.com
+DOMAIN-SUFFIX,youdao.com
+DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,g.163.com
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360.cn
@@ -541,6 +543,7 @@ DOMAIN-SUFFIX,oneplus.net
 DOMAIN-SUFFIX,opstatics.com
 DOMAIN-SUFFIX,oneplusbbs.com
 DOMAIN-SUFFIX,h2os.com
+DOMAIN-SUFFIX,saraba1st.com
 # CDNs
 DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
@@ -687,6 +690,7 @@ DOMAIN-SUFFIX,fanli.com
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fengniao.com
 DOMAIN-SUFFIX,fhldns.com
+DOMAIN-SUFFIX,freebuf.com
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com
@@ -806,6 +810,7 @@ DOMAIN-SUFFIX,mmbang.info
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mogucdn.com
 DOMAIN-SUFFIX,mogujie.com
+DOMAIN-SUFFIX,moocollege.com
 DOMAIN-SUFFIX,mop.com
 DOMAIN-SUFFIX,mscbsc.com
 DOMAIN-SUFFIX,mukewang.com
@@ -847,12 +852,14 @@ DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,qunarzz.com
 DOMAIN-SUFFIX,qzone.com
 DOMAIN-SUFFIX,renren.com
+DOMAIN-SUFFIX,rfchost.com
 DOMAIN-SUFFIX,runoob.com
 DOMAIN-SUFFIX,ruanmei.com
 DOMAIN-SUFFIX,ruby-china.org
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,sanwen.net
+DOMAIN-SUFFIX,sec-wiki.com
 DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,sharejs.com
@@ -958,8 +965,20 @@ DOMAIN-SUFFIX,zhenai.com
 DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhaopin.com
 DOMAIN-SUFFIX,zhiziyun.com
-DOMAIN-SUFFIX,zjstv.com
 DOMAIN-SUFFIX,zhubajie.com
+DOMAIN-SUFFIX,zimuzu.io
+DOMAIN-SUFFIX,zjstv.com
 DOMAIN-SUFFIX,zrblog.net
 DOMAIN-SUFFIX,zuche.com
 DOMAIN-SUFFIX,zuchecdn.com
+# 京ICP备14061319号-2
+DOMAIN-SUFFIX,tianyancha.com
+DOMAIN-SUFFIX,jindidata.com
+DOMAIN-SUFFIX,zhuanxiandai.com
+# 京ICP备12006877号-1
+DOMAIN-SUFFIX,vzuu.com
+DOMAIN-SUFFIX,runsheng.com
+DOMAIN-SUFFIX,larsonlimited.com
+DOMAIN-SUFFIX,fm3838.com
+DOMAIN-SUFFIX,zoomyou.cn
+DOMAIN-SUFFIX,zoom3g.com

@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,mgid.com
 DOMAIN-SUFFIX,httpool.com
 DOMAIN-SUFFIX,unimhk.com
+DOMAIN-SUFFIX,advertserve.com
 # Taboola uses this single domain for both official website and ads serving. 
 # Blocking the following domain will prevent taboola ads from displaying,
 # but also cut the connection to Taboola website.
@@ -440,3 +441,7 @@ DOMAIN-SUFFIX,toboads.com
 # Ads serving for unimhk.com
 DOMAIN-SUFFIX,ad.unimhk.com
 DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN-SUFFIX,adxprtz.com
+DOMAIN-SUFFIX,exosrv.com
+DOMAIN-SUFFIX,exoclick.com
+DOMAIN-SUFFIX,cdn.advertserve.com
