@@ -86,10 +86,10 @@ main()
         rm -rf ${TMP_DIR}
     fi
 
+    echo "${NEW_VER}" | tee ${VER_FILE} > /dev/null
+
     # upload to Github
     gitUpload
-
-    echo "${NEW_VER}" | tee ${VER_FILE} > /dev/null
 }
 
 main
