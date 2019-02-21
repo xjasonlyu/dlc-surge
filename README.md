@@ -12,6 +12,7 @@ This project contains only lists of domains. It is not opinionated, such as a do
 
 ```
 RULE-SET,https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/data/cn,DIRECT
+RULE-SET,https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/data/apple,DIRECT
 ```
 
 ## How it works
