@@ -18,3 +18,10 @@ RULE-SET,https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/data/apple
 ## How it works
 
 - This project will be updated automatically by scripts.
+
+## Snell Bash Script
+- Add snell.sh script to install/uninstall/update Snell for Surge (Debian based only for now).
+```
+Usage:
+./snell.sh --help
+```
