@@ -54,6 +54,8 @@ gitUpload()
     if [[ ! -d .git ]]; then
         git init
     fi
+    # Refresh local copy
+    git pull origin master
     if [[ -f .gitignore ]]; then
         git add .gitignore
     fi
