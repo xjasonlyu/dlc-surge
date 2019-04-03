@@ -56,6 +56,7 @@ gitUpload()
     fi
     # Refresh local copy
     git pull origin master
+    # Add .gitignore
     if [[ -f .gitignore ]]; then
         git add .gitignore
     fi
