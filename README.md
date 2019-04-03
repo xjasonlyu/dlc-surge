@@ -12,16 +12,28 @@ This project contains only lists of domains. It is not opinionated, such as a do
 
 ```
 RULE-SET,https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/data/cn,DIRECT
-RULE-SET,https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/data/apple,DIRECT
+RULE-SET,https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/data/google,PROXY
 ```
 
 ## How it works
 
 - This project will be updated automatically by scripts.
 
-## Snell Bash Script
-- Add snell.sh script to install/uninstall/update Snell for Surge (Debian based only for now).
+# Snell Bash Script (Modified from V2Ray Official Script)
+- Use snell.sh script to install/uninstall/update snell-server for Surge (linux only).
+- Install Snell
 ```
-Usage:
-./snell.sh --help
+bash <(curl -L -s https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/snell.sh)
+```
+- Usage
+```
+./snell.sh [-h] [-c] [--remove] [-p proxy] [-f] [--version vx.y.z] [-l file] [--extractonly]
+  -h, --help            Show help
+  -p, --proxy           To download through a proxy server, use -p socks5://127.0.0.1:1080 or -p http://127.0.0.1:3128 etc
+  -f, --force           Force install
+      --version         Install a particular version, use --version v1.0.0
+  -l, --local           Install from a local file
+      --remove          Remove (uninstall) installed Snell
+      --extractonly     Extract snell but don't install
+  -c, --check           Check for update
 ```
