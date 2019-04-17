@@ -11,8 +11,8 @@ This project contains only lists of domains. It is not opinionated, such as a do
 - add rules to your surge conf, e.g.
 
 ```
-RULE-SET,https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/data/cn,DIRECT
-RULE-SET,https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/data/google,PROXY
+RULE-SET,https://github.com/xjasonlyu/dlc-surge/raw/master/data/cn,DIRECT
+RULE-SET,https://github.com/xjasonlyu/dlc-surge/raw/master/data/google,PROXY
 ```
 
 ## How it works
