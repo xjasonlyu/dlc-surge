@@ -10,6 +10,7 @@ DLC_DIR="data"
 VER_FILE="version"
 DATA_DIR=""
 REPO_URL="https://github.com/xjasonlyu/dlc-surge.git"
+COMMIT=""
 PYTHON3=`which python3`
 
 getVersion()
@@ -68,7 +69,11 @@ gitUpload()
         git add ${i}
     done
     # commit
-    git commit -m "v${NEW_VER}"
+    if [[ ! ${COMMIT} ]]; then
+        git commit -m "v${NEW_VER}"
+    else
+        git commit -m "${COMMIT}"
+    fi
     # push
     git remote add origin ${REPO_URL}
     git remote -v
@@ -97,5 +102,7 @@ main()
     # upload to Github
     gitUpload
 }
+
+COMMIT=${1}
 
 main

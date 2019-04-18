@@ -13,6 +13,7 @@ This project contains only lists of domains. It is not opinionated, such as a do
 ```
 RULE-SET,https://github.com/xjasonlyu/dlc-surge/raw/master/data/cn,DIRECT
 RULE-SET,https://github.com/xjasonlyu/dlc-surge/raw/master/data/google,PROXY
+RULE-SET,https://github.com/xjasonlyu/dlc-surge/raw/master/data/category-ads-all,REJECT
 ```
 
 ## How it works
