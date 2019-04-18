@@ -31,7 +31,7 @@ downloadDlc()
     fi
     # downloading...
     DATA_DIR="${TMP_DIR}/domain-list-community-${NEW_VER}/data"
-    curl -L -H "Cache-Control: no-cache" -o ${TMP_DIR}/${NEW_VER}.zip "https://github.com/v2ray/domain-list-community/archive/${NEW_VER}.zip"
+    curl -s -L -H "Cache-Control: no-cache" -o ${TMP_DIR}/${NEW_VER}.zip "https://github.com/v2ray/domain-list-community/archive/${NEW_VER}.zip"
     unzip -q ${TMP_DIR}/${NEW_VER}.zip -d ${TMP_DIR}
     if [[ ! -d ${DATA_DIR} ]]; then
         echo "data folder missing"
@@ -47,6 +47,9 @@ generateData()
     for i in `ls ${DATA_DIR}`; do
         ${PYTHON3} ./convert.py ${DATA_DIR}/${i} | tee ${DLC_DIR}/${i} > /dev/null
     done
+
+    # alias geolocatin-!cn -> !cn
+    [ -f "${DLC_DIR}/geolocation-!cn" ] && cat "${DLC_DIR}/geolocation-!cn" | tee "${DLC_DIR}/!cn" > /dev/null
 }
 
 gitUpload()
