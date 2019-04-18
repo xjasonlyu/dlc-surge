@@ -24,7 +24,7 @@ RULE-SET,https://github.com/xjasonlyu/dlc-surge/raw/master/data/category-ads-all
 - Use snell.sh script to install/uninstall/update snell-server for Surge (linux only).
 - Install Snell
 ```
-bash <(curl -L -s https://raw.githubusercontent.com/xjasonlyu/dlc-surge/master/snell.sh)
+bash <(curl -L -s https://github.com/xjasonlyu/dlc-surge/raw/master/snell.sh)
 ```
 - Usage
 ```
