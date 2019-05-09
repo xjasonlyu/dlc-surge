@@ -341,6 +341,7 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlecapital.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtube.com
@@ -653,6 +654,7 @@ DOMAIN-SUFFIX,yahoo.com.vn
 DOMAIN-SUFFIX,yahoo.ws
 DOMAIN-SUFFIX,yahoo.co.za
 DOMAIN-SUFFIX,yahoo.cat
+DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yastatic.net
