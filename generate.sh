@@ -51,6 +51,9 @@ generateData()
 
     # alias geolocatin-!cn -> !cn
     [ -f "${DLC_DIR}/geolocation-!cn" ] && cat "${DLC_DIR}/geolocation-!cn" | tee "${DLC_DIR}/!cn" > /dev/null
+
+    # add h2y-ads rules
+    ${PYTHON3} ./h2y-ads-parser.py | tee ${DATA_DIR}/h2y-ads
 }
 
 gitUpload()
