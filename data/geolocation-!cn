@@ -469,6 +469,8 @@ DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,serverfault.com
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,superuser.com
+DOMAIN-SUFFIX,stackapps.com
+DOMAIN-SUFFIX,mathoverflow.net
 DOMAIN-SUFFIX,sstatic.net
 # Taboola uses this single domain for both official website and ads serving. 
 # Blocking the following domain will prevent taboola ads from displaying,
