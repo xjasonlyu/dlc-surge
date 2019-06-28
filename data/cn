@@ -553,6 +553,8 @@ DOMAIN-SUFFIX,saraba1st.com
 # CDNs
 DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,ksyun.com
+DOMAIN-SUFFIX,ksyungslb.com
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
 DOMAIN-SUFFIX,10010.com
