@@ -1,5 +1,5 @@
 #!/bin/bash
-# written by xjasonlyu
+# written by X. Jason Lyu
 
 cd `dirname $0`
 
@@ -50,10 +50,8 @@ generateData()
     done
 
     # alias geolocatin-!cn -> !cn
-    [ -f "${DLC_DIR}/geolocation-!cn" ] && echo "copy geolocation-!cn to !cn" && cat "${DLC_DIR}/geolocation-!cn" | tee "${DLC_DIR}/!cn" > /dev/null
+    [[ -f "${DLC_DIR}/geolocation-!cn" ]] && echo "copy geolocation-!cn to !cn" && cat "${DLC_DIR}/geolocation-!cn" | tee "${DLC_DIR}/!cn" > /dev/null
 
-    # add h2y-ads rules
-    echo "write h2y-ads file" && ${PYTHON3} ./h2y-ads.py | tee "${DLC_DIR}/h2y-ads" > /dev/null
 }
 
 gitUpload()
