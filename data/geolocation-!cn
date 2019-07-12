@@ -74,6 +74,8 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab-static.net
 # List of all domains being operated by Google Inc.
 # Source: https://www.google.com/supported_domains
 DOMAIN-SUFFIX,google.com
