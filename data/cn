@@ -500,6 +500,7 @@ DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent.com.cn
 DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,tenpay.com
@@ -907,7 +908,6 @@ DOMAIN-SUFFIX,u17.com
 DOMAIN-SUFFIX,useso.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,upaiyun.com
-DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v5875.com
 DOMAIN-SUFFIX,vamaker.com
 DOMAIN-SUFFIX,vancl.com
