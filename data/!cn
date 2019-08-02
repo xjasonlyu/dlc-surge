@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,bestbuy.com.mx
 DOMAIN-SUFFIX,bestbuy.ca
 DOMAIN-SUFFIX,bestbuy-jobs.com
 DOMAIN-SUFFIX,bbystatic.com
+DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.net
@@ -78,6 +79,8 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,faststone.org
+DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
@@ -385,6 +388,8 @@ DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,datalore.io
@@ -434,6 +439,8 @@ DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,ntd.com
+DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,tynt.com
@@ -500,6 +507,7 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sndcdn.com
@@ -510,6 +518,7 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steemit.com
 # Reference: 'https://stackexchange.com/sites'
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,stackoverflow.com
