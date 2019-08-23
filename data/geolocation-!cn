@@ -604,6 +604,10 @@ DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,i-scmp.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,fanatical.com
@@ -864,3 +868,14 @@ DOMAIN-SUFFIX,yandex.st
 # All .yandex domains
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,medium.com
+# Elsevier's website,  One of the largest academic publishing companies
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,scopus.com
+# Clarivate Analytics is a company that owns and operates a collection of subscription-based services focused largely on analytics, including scientific and academic research, patent analytics, regulatory standards, trademark protection, pharmaceutical and biotechnology intelligence, domain brand protection and intellectual property management.
+DOMAIN-SUFFIX,newisiknowledge.com
+DOMAIN-SUFFIX,isiknowledge.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,nature.com
