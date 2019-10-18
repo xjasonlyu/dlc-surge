@@ -1,3 +1,7 @@
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,iqiyipic.com
+# CDN used by iqiyi
+DOMAIN-SUFFIX,71edge.com

@@ -1,7 +1,9 @@
 # List of all domains that have access point in China
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabagroup.com
+DOMAIN-SUFFIX,alibabacorp.com
 DOMAIN-SUFFIX,alibabaplanet.com
+DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliimg.com.com
 DOMAIN-SUFFIX,alipay.com
@@ -10,6 +12,7 @@ DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,aliapp.org
 # Taobao
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
@@ -293,6 +296,7 @@ DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedns.net
@@ -319,6 +323,10 @@ DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,iqiyipic.com
+# CDN used by iqiyi
+DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,360buy.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,360top.com
@@ -368,6 +376,7 @@ DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,163yun.com
+DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,ydstatic.com
@@ -500,6 +509,7 @@ DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,qlogo.cn
 # Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
 DOMAIN-SUFFIX,tmtpost.com
 DOMAIN-SUFFIX,chaindd.com
@@ -526,6 +536,9 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.cn
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,xiaomi.net
+# Xiaomi YouPin
+DOMAIN-SUFFIX,xiaomiyoupin.com
 # This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
 DOMAIN-SUFFIX,ynet.com.cn
 DOMAIN-SUFFIX,ynet.com
@@ -552,6 +565,14 @@ DOMAIN-SUFFIX,cnki.net
 # some website in China Academy of Science
 DOMAIN-SUFFIX,csdl.ac.cn
 DOMAIN-SUFFIX,las.ac.cn
+# youku uses some alicdn services, so this must use with domain list "alibaba"
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,soku.com
+# youku video cdn
+DOMAIN-SUFFIX,cibntv.net
 # CDNs
 DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
@@ -604,7 +625,6 @@ DOMAIN-SUFFIX,9718.com
 DOMAIN-SUFFIX,9xu.com
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,acfun.tv
-DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,agrantsem.com
 DOMAIN-SUFFIX,aicdn.com
 DOMAIN-SUFFIX,aixifan.com
@@ -816,7 +836,6 @@ DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mmbang.com
 DOMAIN-SUFFIX,mmbang.info
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mogucdn.com
 DOMAIN-SUFFIX,mogujie.com
 DOMAIN-SUFFIX,moocollege.com
@@ -955,7 +974,6 @@ DOMAIN-SUFFIX,yixi.tv
 DOMAIN-SUFFIX,yjbys.com
 DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,youboy.com
-DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,ysten.com
 DOMAIN-SUFFIX,yunba.io
 DOMAIN-SUFFIX,yundaex.com
