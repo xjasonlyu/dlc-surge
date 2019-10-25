@@ -5,26 +5,44 @@ DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--fiqz9s
 # List of all domains that have access point in China
 DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibabagroup.com
 DOMAIN-SUFFIX,alibabacorp.com
 DOMAIN-SUFFIX,alibabaplanet.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,aliimg.com.com
+DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,aliplus.com
+DOMAIN-SUFFIX,alisoft.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alisports.com
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,mxhichina.com
+DOMAIN-SUFFIX,sm.cn
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiao-inc.com
 # Taobao
+DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taobao.org
+DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmalltv.com
+DOMAIN-SUFFIX,juhuasuan.com
+DOMAIN-SUFFIX,lingshoujia.com
+DOMAIN-SUFFIX,pailitao.com
+DOMAIN-SUFFIX,etao.com
 # Fliggy
 DOMAIN-SUFFIX,alitrip.com
+DOMAIN-SUFFIX,fliggy.com
 # amap
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amapauto.com
@@ -32,6 +50,7 @@ DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,gaode.com
 # Xiami music
 DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.fm
 DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
@@ -117,6 +136,14 @@ DOMAIN-SUFFIX,tyh.taobao.com
 DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,w.m.taobao.com
 DOMAIN-SUFFIX,yiliao.hupan.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,lwurl.to
 DOMAIN-SUFFIX,baidu.cn
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baiducontent.com
@@ -572,7 +599,6 @@ DOMAIN-SUFFIX,csdl.ac.cn
 DOMAIN-SUFFIX,las.ac.cn
 # youku uses some alicdn services, so this must use with domain list "alibaba"
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,soku.com
@@ -841,6 +867,7 @@ DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mmbang.com
 DOMAIN-SUFFIX,mmbang.info
+DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,mogucdn.com
 DOMAIN-SUFFIX,mogujie.com
 DOMAIN-SUFFIX,moocollege.com
@@ -955,7 +982,6 @@ DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,wscdns.com
 DOMAIN-SUFFIX,wumii.com
 DOMAIN-SUFFIX,xiachufang.com
-DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiaokaxiu.com
 DOMAIN-SUFFIX,xitu.com
 DOMAIN-SUFFIX,xinhuanet.com
