@@ -347,6 +347,10 @@ DOMAIN-SUFFIX,wukong.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixgvideo.com
 DOMAIN-SUFFIX,365yg.com
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.cn
@@ -403,6 +407,9 @@ DOMAIN-SUFFIX,img-x.jd.com
 # 界面（上海）网络科技有限公司 (沪ICP备14040942号)
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiemian.com.cn
+DOMAIN-SUFFIX,mafengwo.cn
+DOMAIN-SUFFIX,mafengwo.com
+DOMAIN-SUFFIX,mafengwo.net
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
@@ -551,6 +558,9 @@ DOMAIN-SUFFIX,tivitv.com
 DOMAIN-SUFFIX,tigeek.net.cn
 DOMAIN-SUFFIX,tmtsmartlife.com
 DOMAIN-SUFFIX,tmtsmartrun.com
+DOMAIN-SUFFIX,ly.com
+DOMAIN-SUFFIX,40017.cn
+DOMAIN-SUFFIX,17usoft.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,umtrack.com
@@ -604,6 +614,8 @@ DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,soku.com
 # youku video cdn
 DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
 # CDNs
 DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
@@ -711,12 +723,10 @@ DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnepub.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,coding.net
-DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,csbew.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,ctfile.com
-DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,cubead.com
 DOMAIN-SUFFIX,dajie.com
 DOMAIN-SUFFIX,dajieimg.com
@@ -854,7 +864,6 @@ DOMAIN-SUFFIX,lufaxcdn.com
 DOMAIN-SUFFIX,lvmama.com
 DOMAIN-SUFFIX,lxdns.com
 DOMAIN-SUFFIX,lxway.com
-DOMAIN-SUFFIX,ly.com
 DOMAIN-SUFFIX,mayihr.com
 DOMAIN-SUFFIX,mechina.org
 DOMAIN-SUFFIX,mediav.com
