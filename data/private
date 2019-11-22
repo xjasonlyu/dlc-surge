@@ -1,0 +1,8 @@
+# https://tools.ietf.org/html/rfc6762
+DOMAIN-SUFFIX,local
+# https://tools.ietf.org/html/rfc2606
+DOMAIN-SUFFIX,localhost
+# Also defined in rfc2606
+# test
+# example
+# invalid
