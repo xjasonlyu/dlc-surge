@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,apoll.m.taobao.com
 DOMAIN-SUFFIX,appdownload.alicdn.com
 DOMAIN-SUFFIX,atanx.alicdn.com
 DOMAIN-SUFFIX,atanx2.alicdn.com
+DOMAIN-SUFFIX,cbu01.alicdn.com
 DOMAIN-SUFFIX,cdn0.mobmore.com
 DOMAIN-SUFFIX,click.aliyun.com
 DOMAIN-SUFFIX,click.mz.simba.taobao.com
@@ -349,6 +350,10 @@ DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,vmall.com
+DOMAIN-SUFFIX,vmallres.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,qiyi.com
@@ -522,6 +527,7 @@ DOMAIN-SUFFIX,widget.weibo.com
 DOMAIN-SUFFIX,woocall.sina.com.cn
 DOMAIN-SUFFIX,zc.biz.weibo.com
 DOMAIN-SUFFIX,zymo.mps.weibo.com
+DOMAIN-SUFFIX,apcdns.net
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,foxmail.com.cn
 DOMAIN-SUFFIX,gtimg.cn
@@ -529,6 +535,8 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.com.cn
 DOMAIN-SUFFIX,imqq.com
 DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,tencentyun.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qcloudimg.com
 DOMAIN-SUFFIX,qpic.cn
@@ -587,6 +595,8 @@ DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,eleme.cn
@@ -616,6 +626,12 @@ DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,ksyungslb.com
+# Bank of China
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,whccb.com
+# Moji Weather
+DOMAIN-SUFFIX,moji.com
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
 DOMAIN-SUFFIX,10010.com
