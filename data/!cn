@@ -425,7 +425,6 @@ DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,1e100.net
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlecapital.com
 DOMAIN-SUFFIX,gv.com
@@ -460,6 +459,8 @@ DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
@@ -517,7 +518,6 @@ DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,azureedge.net
 # Reference: SSL certificate subject alt name
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,ms-studiosmedia.com
@@ -540,7 +540,6 @@ DOMAIN-SUFFIX,powerappscdn.net
 DOMAIN-SUFFIX,tfsallin.net
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,cortanaanalytics.com
-DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,centralvalidation.com
 DOMAIN-SUFFIX,videobreakdown.com
 DOMAIN-SUFFIX,breakdown.me
@@ -937,3 +936,27 @@ DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,computingreviews.com
 DOMAIN-SUFFIX,knovel.com
+DOMAIN-SUFFIX,theporndude.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javhd.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,beeg.com
+DOMAIN-SUFFIX,pornhd.com
+DOMAIN-SUFFIX,hqporner.com
+DOMAIN-SUFFIX,eporner.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,youporn.com
+DOMAIN-SUFFIX,tube8.com
+DOMAIN-SUFFIX,pigav.com
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,kindgirls.com
+DOMAIN-SUFFIX,x-art.com
+DOMAIN-SUFFIX,hegre.com

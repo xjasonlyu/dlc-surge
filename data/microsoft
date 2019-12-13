@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,azureedge.net
 # Reference: SSL certificate subject alt name
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,ms-studiosmedia.com
@@ -47,7 +46,6 @@ DOMAIN-SUFFIX,powerappscdn.net
 DOMAIN-SUFFIX,tfsallin.net
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,cortanaanalytics.com
-DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,centralvalidation.com
 DOMAIN-SUFFIX,videobreakdown.com
 DOMAIN-SUFFIX,breakdown.me
