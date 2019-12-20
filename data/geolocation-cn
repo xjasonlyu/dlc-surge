@@ -351,6 +351,7 @@ DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,vmall.com
@@ -624,7 +625,6 @@ DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,yangkeduo.com
 # CDNs
 DOMAIN-SUFFIX,ourdvsss.com
-DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,ksyungslb.com
 # Bank of China
@@ -830,7 +830,6 @@ DOMAIN-SUFFIX,jiayuan.com
 DOMAIN-SUFFIX,jikexueyuan.com
 DOMAIN-SUFFIX,jisuanke.com
 DOMAIN-SUFFIX,jmstatic.com
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jstv.com
 DOMAIN-SUFFIX,jumei.com
 DOMAIN-SUFFIX,jyimg.com
