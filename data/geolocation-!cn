@@ -111,6 +111,10 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.net
+# Disqus, Inc.
+# Disqus offers the best add-on tools for websites to increase engagement.
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
 # List of all domains being operated by Dorpbox Inc.
 # Source: https://www.dropbox.com/en/help/security/official-domains
 DOMAIN-SUFFIX,db.tt
@@ -160,6 +164,9 @@ DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,faststone.org
 DOMAIN-SUFFIX,gfw.press
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitbook.zendesk.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
@@ -370,12 +377,75 @@ DOMAIN-SUFFIX,google.cat
 # All .google and .goog domains
 DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,goog
+# Blogspot
+DOMAIN-SUFFIX,blogspot.ae
+DOMAIN-SUFFIX,blogspot.al
+DOMAIN-SUFFIX,blogspot.am
+DOMAIN-SUFFIX,blogspot.ba
+DOMAIN-SUFFIX,blogspot.be
+DOMAIN-SUFFIX,blogspot.bg
+DOMAIN-SUFFIX,blogspot.ca
+DOMAIN-SUFFIX,blogspot.ch
+DOMAIN-SUFFIX,blogspot.cl
+DOMAIN-SUFFIX,blogspot.co.id
+DOMAIN-SUFFIX,blogspot.co.ke
+DOMAIN-SUFFIX,blogspot.co.uk
+DOMAIN-SUFFIX,blogspot.co.za
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,blogspot.com.ar
+DOMAIN-SUFFIX,blogspot.com.au
+DOMAIN-SUFFIX,blogspot.com.br
+DOMAIN-SUFFIX,blogspot.com.by
+DOMAIN-SUFFIX,blogspot.com.co
+DOMAIN-SUFFIX,blogspot.com.cy
+DOMAIN-SUFFIX,blogspot.com.ee
+DOMAIN-SUFFIX,blogspot.com.eg
+DOMAIN-SUFFIX,blogspot.com.es
+DOMAIN-SUFFIX,blogspot.com.mt
+DOMAIN-SUFFIX,blogspot.com.ng
+DOMAIN-SUFFIX,blogspot.com.tr
+DOMAIN-SUFFIX,blogspot.com.uy
+DOMAIN-SUFFIX,blogspot.cz
+DOMAIN-SUFFIX,blogspot.de
+DOMAIN-SUFFIX,blogspot.dk
+DOMAIN-SUFFIX,blogspot.fi
+DOMAIN-SUFFIX,blogspot.fr
+DOMAIN-SUFFIX,blogspot.gr
+DOMAIN-SUFFIX,blogspot.hk
+DOMAIN-SUFFIX,blogspot.hr
+DOMAIN-SUFFIX,blogspot.hu
+DOMAIN-SUFFIX,blogspot.ie
+DOMAIN-SUFFIX,blogspot.in
+DOMAIN-SUFFIX,blogspot.is
+DOMAIN-SUFFIX,blogspot.it
+DOMAIN-SUFFIX,blogspot.jp
+DOMAIN-SUFFIX,blogspot.kr
+DOMAIN-SUFFIX,blogspot.li
+DOMAIN-SUFFIX,blogspot.lt
+DOMAIN-SUFFIX,blogspot.lu
+DOMAIN-SUFFIX,blogspot.md
+DOMAIN-SUFFIX,blogspot.mk
+DOMAIN-SUFFIX,blogspot.mx
+DOMAIN-SUFFIX,blogspot.my
+DOMAIN-SUFFIX,blogspot.nl
+DOMAIN-SUFFIX,blogspot.no
+DOMAIN-SUFFIX,blogspot.pe
+DOMAIN-SUFFIX,blogspot.pt
+DOMAIN-SUFFIX,blogspot.qa
+DOMAIN-SUFFIX,blogspot.ro
+DOMAIN-SUFFIX,blogspot.ru
+DOMAIN-SUFFIX,blogspot.se
+DOMAIN-SUFFIX,blogspot.sg
+DOMAIN-SUFFIX,blogspot.si
+DOMAIN-SUFFIX,blogspot.sk
+DOMAIN-SUFFIX,blogspot.sn
+DOMAIN-SUFFIX,blogspot.tw
+DOMAIN-SUFFIX,blogspot.ug
 # Others
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromebook.com
@@ -474,6 +544,7 @@ DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,guo.media
+DOMAIN-SUFFIX,gnews.org
 DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,huanghuagang.org
 DOMAIN-SUFFIX,infrapedia.com
@@ -667,6 +738,9 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steam-chat.com
+# Free Steam Games Pre-installed for PC with direct download links.
+DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,steemit.com
 # Reference: 'https://stackexchange.com/sites'
 DOMAIN-SUFFIX,stackexchange.com
@@ -716,6 +790,7 @@ DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2ray.cool
 DOMAIN-SUFFIX,mux.cool
+DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,livestream.com
@@ -915,6 +990,7 @@ DOMAIN-SUFFIX,yahoo.ws
 DOMAIN-SUFFIX,yahoo.co.za
 DOMAIN-SUFFIX,yahoo.cat
 DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yastatic.net
@@ -960,3 +1036,45 @@ DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,kindgirls.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,hegre.com
+DOMAIN-SUFFIX,0zmedia.com
+DOMAIN-SUFFIX,caijinglengyan.com
+DOMAIN-SUFFIX,sinoinsider.com
+DOMAIN-SUFFIX,gofundme.com
+# Reference: https://zh.wikipedia.org/wiki/%E5%A3%B9%E5%82%B3%E5%AA%92
+DOMAIN-SUFFIX,appledaily.com
+DOMAIN-SUFFIX,appledaily.hk
+DOMAIN-SUFFIX,appledaily.com.hk
+DOMAIN-SUFFIX,appledaily.com.tw
+DOMAIN-SUFFIX,atnext.com
+DOMAIN-SUFFIX,nextmedia.com
+DOMAIN-SUFFIX,nextdigital.com.hk
+DOMAIN-SUFFIX,nextmag.com.tw
+DOMAIN-SUFFIX,nexttv.com.tw
+DOMAIN-SUFFIX,eracom.com.tw
+DOMAIN-SUFFIX,nextmgz.com
+DOMAIN-SUFFIX,next.hk
+DOMAIN-SUFFIX,sharpdaily.tw
+DOMAIN-SUFFIX,d100.net
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dlercloud.org
+DOMAIN-SUFFIX,dlercloud.me
+DOMAIN-SUFFIX,duyaoss.com
+DOMAIN-SUFFIX,duyaossr.com
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,foxbusiness.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN,foxnewsplayer-a.akamaihd.net
+DOMAIN-SUFFIX,jfengtime.com
+DOMAIN-SUFFIX,maying.co
+DOMAIN-SUFFIX,myradio.hk
+DOMAIN-SUFFIX,myradio.com.hk
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,nexitcore.com
+DOMAIN-SUFFIX,pincong.rocks
+DOMAIN-SUFFIX,rixcloud.com
+DOMAIN-SUFFIX,soundofhope.org
+DOMAIN-SUFFIX,thestandnews.com
+DOMAIN-SUFFIX,wenzhao.ca

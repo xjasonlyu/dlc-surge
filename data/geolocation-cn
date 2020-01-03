@@ -1,4 +1,8 @@
 # List of all domains that have access point in China
+# Beijing Danmu Network Technology Co., Ltd.
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,aixifan.com
+DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibabagroup.com
@@ -344,6 +348,8 @@ DOMAIN-SUFFIX,wukong.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixgvideo.com
 DOMAIN-SUFFIX,365yg.com
+DOMAIN-SUFFIX,coding.me
+DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,c-ctrip.com
@@ -409,6 +415,12 @@ DOMAIN-SUFFIX,img-x.jd.com
 # 界面（上海）网络科技有限公司 (沪ICP备14040942号)
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiemian.com.cn
+# Beijing Kuaishou Technology Co., Ltd.
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,static.yximgs.com
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com
 DOMAIN-SUFFIX,mafengwo.cn
 DOMAIN-SUFFIX,mafengwo.com
 DOMAIN-SUFFIX,mafengwo.net
@@ -573,6 +585,8 @@ DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,mobmore.com
+DOMAIN-SUFFIX,alog.umeng.com
+DOMAIN-SUFFIX,alog.umengcloud.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpayintl.com
@@ -679,10 +693,8 @@ DOMAIN-SUFFIX,7k7k.com
 DOMAIN-SUFFIX,900.la
 DOMAIN-SUFFIX,9718.com
 DOMAIN-SUFFIX,9xu.com
-DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,agrantsem.com
 DOMAIN-SUFFIX,aicdn.com
-DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,anjuke.com
 DOMAIN-SUFFIX,anquan.org
@@ -721,6 +733,7 @@ DOMAIN-SUFFIX,chinapay.com
 DOMAIN-SUFFIX,chinatranslation.net
 DOMAIN-SUFFIX,chinaz.com
 DOMAIN-SUFFIX,chiphell.com
+DOMAIN-SUFFIX,chongdiantou.com
 DOMAIN-SUFFIX,chouti.com
 DOMAIN-SUFFIX,chuangxin.com
 DOMAIN-SUFFIX,chuansong.me
@@ -732,7 +745,6 @@ DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnepub.com
 DOMAIN-SUFFIX,cnzz.com
-DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,csbew.com
 DOMAIN-SUFFIX,csdn.net
@@ -772,6 +784,7 @@ DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fengniao.com
 DOMAIN-SUFFIX,fhldns.com
 DOMAIN-SUFFIX,freebuf.com
+DOMAIN-SUFFIX,gamersky.com
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com
@@ -973,6 +986,7 @@ DOMAIN-SUFFIX,tudouui.com
 DOMAIN-SUFFIX,tuicool.com
 DOMAIN-SUFFIX,tuniu.com
 DOMAIN-SUFFIX,tutuapp.com
+DOMAIN-SUFFIX,u.tools
 DOMAIN-SUFFIX,u17.com
 DOMAIN-SUFFIX,useso.com
 DOMAIN-SUFFIX,upyun.com
