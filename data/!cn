@@ -139,6 +139,8 @@ DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,ebayrtm.com
 DOMAIN-SUFFIX,ebayimg.com
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN,epicgames-download1.akamaized.net
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.br
 DOMAIN-SUFFIX,facebook.com
@@ -162,11 +164,13 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
+DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,faststone.org
 DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbook.zendesk.com
+DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
@@ -584,6 +588,8 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,microsoftuwp.com
+DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,office365.com
@@ -739,6 +745,8 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steam-chat.com
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcommunity-a.akamaihd.net
 # Free Steam Games Pre-installed for PC with direct download links.
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,steemit.com

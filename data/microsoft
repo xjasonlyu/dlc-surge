@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,microsoftuwp.com
+DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,office365.com
