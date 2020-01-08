@@ -1,8 +1,14 @@
 # This tag 'cn' is for backward compatibility of 'geosite:cn' in V2Ray.
-# Top level domain .cn .中国 and .中國
+# Reference: https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--fiqz9s
+DOMAIN-SUFFIX,xn--1qqw23a
+DOMAIN-SUFFIX,xn--xhq521b
+DOMAIN-SUFFIX,xn--8y0a063a
+DOMAIN-SUFFIX,xn--6frz82g
+DOMAIN-SUFFIX,xn--fiq64b
+DOMAIN-SUFFIX,xn--estv75g
 # List of all domains that have access point in China
 # Beijing Danmu Network Technology Co., Ltd.
 DOMAIN-SUFFIX,acfun.cn
@@ -376,6 +382,23 @@ DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,iqiyipic.com
 # CDN used by iqiyi
 DOMAIN-SUFFIX,71edge.com
+DOMAIN-SUFFIX,a.ckm.iqiyi.com
+DOMAIN-SUFFIX,ad.m.iqiyi.com
+DOMAIN-SUFFIX,afp.iqiyi.com
+DOMAIN-SUFFIX,c.uaa.iqiyi.com
+DOMAIN-SUFFIX,cloudpush.iqiyi.com
+DOMAIN-SUFFIX,cm.passport.iqiyi.com
+DOMAIN-SUFFIX,cupid.iqiyi.com
+DOMAIN-SUFFIX,emoticon.sns.iqiyi.com
+DOMAIN-SUFFIX,gamecenter.iqiyi.com
+DOMAIN-SUFFIX,hotchat-im.iqiyi.com
+DOMAIN-SUFFIX,ifacelog.iqiyi.com
+DOMAIN-SUFFIX,mbdlog.iqiyi.com
+DOMAIN-SUFFIX,msg.71.am
+DOMAIN-SUFFIX,msg.video.qiyi.com
+DOMAIN-SUFFIX,msg2.video.qiyi.com
+DOMAIN-SUFFIX,policy.video.iqiyi.com
+DOMAIN-SUFFIX,yuedu.iqiyi.com
 DOMAIN-SUFFIX,360buy.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,360top.com
