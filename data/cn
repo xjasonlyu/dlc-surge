@@ -443,6 +443,8 @@ DOMAIN-SUFFIX,img-x.jd.com
 # 界面（上海）网络科技有限公司 (沪ICP备14040942号)
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiemian.com.cn
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.com
 # Beijing Kuaishou Technology Co., Ltd.
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,kuaishou.com
