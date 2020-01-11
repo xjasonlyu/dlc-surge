@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,v2fly.org
 # GFW related
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,gfw.press
+DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,greatfire.org
 # VPN related
 DOMAIN-SUFFIX,dlercloud.com
@@ -789,6 +790,7 @@ DOMAIN-SUFFIX,pureapk.com
 # Disqus offers the best add-on tools for websites to increase engagement.
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,disqusservice.com
 # List of all domains being operated by Dorpbox Inc.
 # Source: https://www.dropbox.com/en/help/security/official-domains
 DOMAIN-SUFFIX,db.tt
