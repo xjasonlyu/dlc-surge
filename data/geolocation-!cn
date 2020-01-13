@@ -1,24 +1,63 @@
 # This list contains domains that don't have access point in China. This is opposite to geolocation-cn.
-# V2Ray related
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,mux.cool
-DOMAIN-SUFFIX,v2fly.org
-# GFW related
+# VPN tools and services & Privacy protection & Anti-GFW & Anti-censorship
+# References:
+# https://github.com/danoctavian/awesome-anti-censorship
+# https://github.com/KevinColemanInc/awesome-privacy
+DOMAIN-SUFFIX,ahmia.fi
+DOMAIN-SUFFIX,akasha.world
+DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
-DOMAIN-SUFFIX,gfw.press
-DOMAIN-SUFFIX,gfw.report
-DOMAIN-SUFFIX,greatfire.org
-# VPN related
+DOMAIN-SUFFIX,dat.foundation
+DOMAIN-SUFFIX,democracy.earth
 DOMAIN-SUFFIX,dlercloud.com
 DOMAIN-SUFFIX,dlercloud.org
 DOMAIN-SUFFIX,dlercloud.me
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,duyaossr.com
+DOMAIN-SUFFIX,eff.org
+DOMAIN-SUFFIX,epicbrowser.com
+DOMAIN-SUFFIX,ffprofile.com
+DOMAIN-SUFFIX,freenetproject.org
+DOMAIN-SUFFIX,fteproxy.org
+DOMAIN-SUFFIX,gfw.press
+DOMAIN-SUFFIX,gfw.report
+DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,guardianproject.info
+DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,pwnedpasswords.com
+DOMAIN-SUFFIX,geti2p.net
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,jitsi.org
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nexitcore.com
+DOMAIN-SUFFIX,ntc.party
+DOMAIN-SUFFIX,onionshare.org
+DOMAIN-SUFFIX,ooni.org
+DOMAIN-SUFFIX,openvpn.net
+DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,rixcloud.com
+DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,softether.org
+DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,stunnel.org
+DOMAIN-SUFFIX,telex.cc
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,tribler.org
+DOMAIN-SUFFIX,tunsafe.com
+DOMAIN-SUFFIX,twister.net.co
+DOMAIN-SUFFIX,uproxy.org
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,mux.cool
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,vuvuzela.io
+DOMAIN-SUFFIX,whonix.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wireguard.com
+DOMAIN-SUFFIX,zeronet.io
 # Tech companies & Orginations
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,omtrdc.net
@@ -751,14 +790,15 @@ DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbook.zendesk.com
+DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,gitlab-static.net
@@ -786,6 +826,7 @@ DOMAIN-SUFFIX,xposed.info
 # Services & Softwares
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,bitwarden.com
 # Disqus, Inc.
 # Disqus offers the best add-on tools for websites to increase engagement.
 DOMAIN-SUFFIX,disqus.com
@@ -842,6 +883,9 @@ DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,zeit.co
+DOMAIN-SUFFIX,zeit.sh
+DOMAIN-SUFFIX,now.sh
 # Communications
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.gg
@@ -854,6 +898,7 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
+DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
@@ -910,6 +955,14 @@ DOMAIN-SUFFIX,uplay.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,livestream.com
+DOMAIN-SUFFIX,jstucdn.com
+DOMAIN-SUFFIX,playcvn.com
+DOMAIN-SUFFIX,rrys.tv
+DOMAIN-SUFFIX,yyets.com
+DOMAIN-SUFFIX,zmz2019.com
+DOMAIN-SUFFIX,zmzapi.com
+DOMAIN-SUFFIX,cvnad.com
+DOMAIN-SUFFIX,iyoowi.com
 # Forums
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,quora.com
@@ -1108,5 +1161,4 @@ DOMAIN-SUFFIX,rarbgunblock.com
 DOMAIN,rarbg.unblocked.vc
 DOMAIN,rarbg.bypassed.org
 DOMAIN-SUFFIX,tsquare.tv
-DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,windy.com
