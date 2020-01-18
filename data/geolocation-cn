@@ -356,6 +356,9 @@ DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
+# 奶牛快传 备案号：蜀ICP备14008877号
+DOMAIN-SUFFIX,c-t.work
+DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,douyu.tv
@@ -447,6 +450,12 @@ DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,static.yximgs.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
+# 蓝点网
+# 浙ICP备14021835号-1
+DOMAIN-SUFFIX,lancdn.com
+DOMAIN-SUFFIX,landiannews.com
+# 浙ICP备19001095号-2
+DOMAIN-SUFFIX,wsoso.com
 DOMAIN-SUFFIX,mafengwo.cn
 DOMAIN-SUFFIX,mafengwo.com
 DOMAIN-SUFFIX,mafengwo.net
@@ -755,6 +764,7 @@ DOMAIN-SUFFIX,chongdiantou.com
 DOMAIN-SUFFIX,chouti.com
 DOMAIN-SUFFIX,chuangxin.com
 DOMAIN-SUFFIX,chuansong.me
+DOMAIN-SUFFIX,chuyu.me
 DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cloudxns.com
 DOMAIN-SUFFIX,cmbchina.com
