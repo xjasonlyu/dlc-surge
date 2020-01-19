@@ -67,7 +67,6 @@ DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.jp
@@ -77,6 +76,7 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,cloudfront.net
 # All .aws domains
 DOMAIN-SUFFIX,aws
+DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.net
 DOMAIN-SUFFIX,apple.ae
@@ -788,6 +788,7 @@ DOMAIN-SUFFIX,yimg.com
 # Reference: https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 # All .yahoo domains
 DOMAIN-SUFFIX,yahoo
+DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yandex.ru

@@ -145,3 +145,4 @@ DOMAIN-SUFFIX,yimg.com
 # Reference: https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 # All .yahoo domains
 DOMAIN-SUFFIX,yahoo
+DOMAIN-SUFFIX,ads.yahoo.com
