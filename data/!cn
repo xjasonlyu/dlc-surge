@@ -450,6 +450,7 @@ DOMAIN-SUFFIX,chromebook.com
 DOMAIN-SUFFIX,cobrasearch.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,igoogle.com
+DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,foofle.com
 DOMAIN-SUFFIX,froogle.com
 DOMAIN-SUFFIX,googlecode.com
@@ -464,6 +465,7 @@ DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,googlemail.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,madewithcode.com
+DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,panoramio.com
 DOMAIN-SUFFIX,picasa.com
 DOMAIN-SUFFIX,urchin.com
