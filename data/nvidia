@@ -1,8 +1,5 @@
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,nvidia.com
-# China 中国
-DOMAIN-SUFFIX,geforce.cn
-DOMAIN-SUFFIX,nvidia.cn
 # Japan 日本
 DOMAIN-SUFFIX,nvidia.co.jp
 # Korea 한국
