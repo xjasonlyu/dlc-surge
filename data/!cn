@@ -1147,6 +1147,10 @@ DOMAIN-SUFFIX,voadeewanews.com
 DOMAIN-SUFFIX,urduvoa.com
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wenzhao.ca
+# Organizations
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,globalsecurity.org
+DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
@@ -1161,6 +1165,7 @@ DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,w.wiki
+DOMAIN-SUFFIX,wto.org
 # Science & Technology & Knowledge
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,computingreviews.com
@@ -1226,7 +1231,6 @@ DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,youporn.com
 # Others
-DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,huanghuagang.org
 # RARBG official site
 DOMAIN-SUFFIX,rarbg.to
