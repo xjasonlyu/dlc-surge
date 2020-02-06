@@ -1,5 +1,57 @@
 # This list contains domains that don't have access point in China. This is opposite to geolocation-cn.
-# VPN tools and services & Privacy protection & Anti-GFW & Anti-censorship
+# VPN services
+# Disclaimer: We do NOT endorse or claim that the VPN services below are legal or safe, please use at your own risk and observe local laws, rules and regulations.
+# Reference: https://duyaoss.com/archives/3/
+DOMAIN-SUFFIX,928.plus
+DOMAIN-SUFFIX,zind.cloud
+DOMAIN-SUFFIX,aaex.uk
+DOMAIN-SUFFIX,amytele.com
+DOMAIN-SUFFIX,baicaonetwork.com
+DOMAIN-SUFFIX,bighead.group
+DOMAIN-SUFFIX,blinkload.zone
+DOMAIN-SUFFIX,boslife.biz
+DOMAIN-SUFFIX,boslife.net
+DOMAIN-SUFFIX,cloudn.me
+DOMAIN-SUFFIX,conair.me
+DOMAIN-SUFFIX,cordcloud.org
+DOMAIN-SUFFIX,ctyun.online
+DOMAIN-SUFFIX,cylink.pro
+DOMAIN-SUFFIX,cylink0122.icu
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dlercloud.org
+DOMAIN-SUFFIX,dlercloud.me
+DOMAIN-SUFFIX,dleris.best
+DOMAIN-SUFFIX,duyaoss.com
+DOMAIN-SUFFIX,duyaossr.com
+DOMAIN-SUFFIX,hitun.io
+DOMAIN-SUFFIX,xn--90wwvt03e.com
+DOMAIN-SUFFIX,maying.co
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com
+DOMAIN-SUFFIX,mocloudplus.com
+DOMAIN-SUFFIX,mray.club
+DOMAIN-SUFFIX,muncloud.dog
+DOMAIN-SUFFIX,n3ro.fun
+DOMAIN-SUFFIX,n3ro.live
+DOMAIN-SUFFIX,n3ro.net
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,nexitallysafe.com
+DOMAIN-SUFFIX,nexitcore.com
+DOMAIN-SUFFIX,paofu.cloud
+DOMAIN-SUFFIX,paofuyun.me
+DOMAIN-SUFFIX,renzhe.cloud
+DOMAIN-SUFFIX,rixcloud.com
+DOMAIN-SUFFIX,shadowsocks.com
+DOMAIN-SUFFIX,shadowsocks.nl
+DOMAIN-SUFFIX,ssplive.pw
+DOMAIN-SUFFIX,china-internet-exchange.com
+DOMAIN-SUFFIX,cxkcloud.com
+DOMAIN-SUFFIX,ssrcloud.com
+DOMAIN-SUFFIX,ssrcloud.org
+DOMAIN-SUFFIX,ssrpass.pw
+DOMAIN-SUFFIX,stc-server.com
+DOMAIN-SUFFIX,surflite.co
+DOMAIN-SUFFIX,surflite.net
+# VPN tools & Privacy protection & Anti-GFW & Anti-censorship
 # References:
 # https://github.com/danoctavian/awesome-anti-censorship
 # https://github.com/KevinColemanInc/awesome-privacy
@@ -9,11 +61,6 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,dat.foundation
 DOMAIN-SUFFIX,democracy.earth
-DOMAIN-SUFFIX,dlercloud.com
-DOMAIN-SUFFIX,dlercloud.org
-DOMAIN-SUFFIX,dlercloud.me
-DOMAIN-SUFFIX,duyaoss.com
-DOMAIN-SUFFIX,duyaossr.com
 DOMAIN-SUFFIX,eff.org
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,ffprofile.com
@@ -30,15 +77,11 @@ DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,maying.co
-DOMAIN-SUFFIX,nexitally.com
-DOMAIN-SUFFIX,nexitcore.com
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,psiphon3.com
-DOMAIN-SUFFIX,rixcloud.com
 DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,softether-download.com
@@ -542,6 +585,7 @@ DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,adservice.google.com
 # HP Development Company, L.P.
 DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,hpstore-china.com
@@ -1195,6 +1239,10 @@ DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,beeg.com
+DOMAIN-SUFFIX,btt804.com
+DOMAIN-SUFFIX,btt904.com
+DOMAIN-SUFFIX,bttzyw.com
+DOMAIN-SUFFIX,bttzyw.net
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,eporner.com
@@ -1206,6 +1254,7 @@ DOMAIN-SUFFIX,javfinder.sh
 DOMAIN-SUFFIX,findercdn.me
 DOMAIN-SUFFIX,o0-2.com
 DOMAIN-SUFFIX,javhd.com
+DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,javwide.tv
 DOMAIN-SUFFIX,javwide.com
 DOMAIN-SUFFIX,kindgirls.com
@@ -1220,9 +1269,11 @@ DOMAIN-SUFFIX,pornhd.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,press.vin
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,tube8.com
+DOMAIN-SUFFIX,vaginacontest.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xnxx.com
