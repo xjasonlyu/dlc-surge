@@ -1193,6 +1193,9 @@ DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wenzhao.ca
 # Organizations
 DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,csis.org
+DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,globalsecurity.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,mediawiki.org
@@ -1212,6 +1215,7 @@ DOMAIN-SUFFIX,w.wiki
 DOMAIN-SUFFIX,wto.org
 # Science & Technology & Knowledge
 DOMAIN-SUFFIX,acm.org
+DOMAIN,chinapower.csis.org
 DOMAIN-SUFFIX,computingreviews.com
 # Elsevier's website,  One of the largest academic publishing companies
 DOMAIN-SUFFIX,engineeringvillage.com
