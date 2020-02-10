@@ -351,6 +351,17 @@ DOMAIN-SUFFIX,365yg.com
 # some website in China Academy of Science
 DOMAIN-SUFFIX,csdl.ac.cn
 DOMAIN-SUFFIX,las.ac.cn
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,chinamobileltd.com
+# Migu
+DOMAIN-SUFFIX,migucloud.com
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,knet.cn
+DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net
@@ -474,6 +485,7 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,ydstatic.com
+DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,g.163.com
 DOMAIN-SUFFIX,oneplus.com
 DOMAIN-SUFFIX,oneplus.cn
@@ -698,7 +710,6 @@ DOMAIN-SUFFIX,whccb.com
 DOMAIN-SUFFIX,moji.com
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
-DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,100offer.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,123juzi.com
@@ -777,7 +788,6 @@ DOMAIN-SUFFIX,china.com
 DOMAIN-SUFFIX,chinacache.com
 DOMAIN-SUFFIX,chinacache.net
 DOMAIN-SUFFIX,chinahr.com
-DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,chinapay.com
 DOMAIN-SUFFIX,chinatranslation.net
 DOMAIN-SUFFIX,chinaz.com
