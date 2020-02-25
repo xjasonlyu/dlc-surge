@@ -379,6 +379,7 @@ DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,eleme.cn
+DOMAIN-SUFFIX,gcores.com
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,vmall.com
@@ -455,6 +456,7 @@ DOMAIN-SUFFIX,img-x.jd.com
 # 界面（上海）网络科技有限公司 (沪ICP备14040942号)
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiemian.com.cn
+DOMAIN-SUFFIX,jinrishici.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.com
 # Beijing Kuaishou Technology Co., Ltd.
@@ -605,6 +607,8 @@ DOMAIN-SUFFIX,woocall.sina.com.cn
 DOMAIN-SUFFIX,zc.biz.weibo.com
 DOMAIN-SUFFIX,zymo.mps.weibo.com
 DOMAIN-SUFFIX,saraba1st.com
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,taptap.com
 DOMAIN-SUFFIX,apcdns.net
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,foxmail.com.cn
