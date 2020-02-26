@@ -199,6 +199,16 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,cups.org
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflaressl.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,one.one.one.one
+DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.br
 DOMAIN-SUFFIX,facebook.com
@@ -223,6 +233,7 @@ DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN,fbcdn-a.akamaihd.net
+DOMAIN-SUFFIX,godaddy.com
 # List of all domains being operated by Google Inc.
 # Source: https://www.google.com/supported_domains
 DOMAIN-SUFFIX,google.ad
@@ -864,12 +875,56 @@ DOMAIN-SUFFIX,yimg.com
 # All .yahoo domains
 DOMAIN-SUFFIX,yahoo
 DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandex.st
 # All .yandex domains
 DOMAIN-SUFFIX,yandex
+# Certificate authorities
+# Reference: https://en.wikipedia.org/wiki/Certificate_authority
+DOMAIN-SUFFIX,buypass-ssl.com
+DOMAIN-SUFFIX,buypass.com
+DOMAIN-SUFFIX,buypass.no
+DOMAIN-SUFFIX,buypass.se
+DOMAIN-SUFFIX,minid.no
+DOMAIN-SUFFIX,comodo.com
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,comodoca2.com
+DOMAIN-SUFFIX,comodoca3.com
+DOMAIN-SUFFIX,comodoca4.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,globalsign-media.com
+DOMAIN-SUFFIX,globalsign.be
+DOMAIN-SUFFIX,globalsign.ch
+DOMAIN-SUFFIX,globalsign.co.uk
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsign.com.au
+DOMAIN-SUFFIX,globalsign.com.hk
+DOMAIN-SUFFIX,globalsign.com.sg
+DOMAIN-SUFFIX,globalsign.es
+DOMAIN-SUFFIX,globalsign.eu
+DOMAIN-SUFFIX,globalsign.fr
+DOMAIN-SUFFIX,globalsign.net
+DOMAIN-SUFFIX,globalsign.nl
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,identrust.co.uk
+DOMAIN-SUFFIX,identrust.net
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,secom.co.jp
+DOMAIN-SUFFIX,secomtrust.net
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,enterprisessl.com
+DOMAIN-SUFFIX,hackerguardian.com
+DOMAIN-SUFFIX,instantssl.com
+DOMAIN-SUFFIX,optimumssl.com
+DOMAIN-SUFFIX,positivessl.com
+DOMAIN-SUFFIX,telekom.com
+DOMAIN-SUFFIX,telekom.de
+DOMAIN-SUFFIX,trustwave.com
 # Software development related
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,getbootstrap.com
@@ -1000,6 +1055,8 @@ DOMAIN-SUFFIX,wordpress.org
 DOMAIN-SUFFIX,wordpress.tv
 DOMAIN-SUFFIX,wp-themes.com
 DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,xdty.org
+DOMAIN-SUFFIX,xingrz.me
 DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,now.sh
@@ -1092,7 +1149,6 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 # News & Press & Media
-DOMAIN-SUFFIX,0zmedia.com
 # Reference: https://zh.wikipedia.org/wiki/%E5%A3%B9%E5%82%B3%E5%AA%92
 DOMAIN-SUFFIX,appledaily.com
 DOMAIN-SUFFIX,appledaily.hk
@@ -1129,10 +1185,18 @@ DOMAIN-SUFFIX,globalvoicesonline.org
 DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,gnews.org
 DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,inmediahk.net
 DOMAIN-SUFFIX,jfengtime.com
+DOMAIN-SUFFIX,ltn.com.tw
+DOMAIN-SUFFIX,yes123.com.tw
+DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,matters.one
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,myradio.hk
 DOMAIN-SUFFIX,myradio.com.hk
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,nikkei.jp
+DOMAIN-SUFFIX,nikkei.co.jp
 DOMAIN-SUFFIX,ntd.com
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,nytimes.com
@@ -1140,6 +1204,7 @@ DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,tynt.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,passiontimes.hk
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reuters.tv
 DOMAIN-SUFFIX,reutersmedia.net
@@ -1153,7 +1218,9 @@ DOMAIN-SUFFIX,i-scmp.com
 DOMAIN-SUFFIX,sinoinsider.com
 DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,thestandnews.com
-DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,udn.com.tw
+DOMAIN-SUFFIX,udnfunlife.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,zeriamerikes.com
 DOMAIN-SUFFIX,glasamerike.net
@@ -1162,6 +1229,7 @@ DOMAIN-SUFFIX,amerikaninsesi.org
 DOMAIN-SUFFIX,amerikiskhma.com
 DOMAIN-SUFFIX,golos-ameriki.ru
 DOMAIN-SUFFIX,voacantonese.com
+DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,voaindonesia.com
 DOMAIN-SUFFIX,voacambodia.com
 DOMAIN-SUFFIX,voakorea.com
@@ -1170,33 +1238,40 @@ DOMAIN-SUFFIX,voatibetan.com
 DOMAIN-SUFFIX,voatibetanenglish.com
 DOMAIN-SUFFIX,voatiengviet.com
 DOMAIN-SUFFIX,amerikaovozi.com
-DOMAIN-SUFFIX,voanoticias.com
-DOMAIN-SUFFIX,voanouvel.com
-DOMAIN-SUFFIX,dengeamerika.com
-DOMAIN-SUFFIX,voazimbabwe.com
-DOMAIN-SUFFIX,voaswahili.com
-DOMAIN-SUFFIX,voasomali.com
-DOMAIN-SUFFIX,voashona.com
-DOMAIN-SUFFIX,voaportugues.com
-DOMAIN-SUFFIX,voandebele.com
-DOMAIN-SUFFIX,radiyoyacuvoa.com
-DOMAIN-SUFFIX,voahausa.com
-DOMAIN-SUFFIX,voaafrique.com
-DOMAIN-SUFFIX,voabambara.com
-DOMAIN-SUFFIX,voaafaanoromoo.com
 DOMAIN-SUFFIX,voabangla.com
 DOMAIN-SUFFIX,darivoa.com
 DOMAIN-SUFFIX,pashtovoa.com
 DOMAIN-SUFFIX,voadeewanews.com
 DOMAIN-SUFFIX,urduvoa.com
+DOMAIN-SUFFIX,voaafaanoromoo.com
+DOMAIN-SUFFIX,voabambara.com
+DOMAIN-SUFFIX,voaafrique.com
+DOMAIN-SUFFIX,voahausa.com
+DOMAIN-SUFFIX,radiyoyacuvoa.com
+DOMAIN-SUFFIX,voalingala.com
+DOMAIN-SUFFIX,voandebele.com
+DOMAIN-SUFFIX,voaportugues.com
+DOMAIN-SUFFIX,voashona.com
+DOMAIN-SUFFIX,voasomali.com
+DOMAIN-SUFFIX,voaswahili.com
+DOMAIN-SUFFIX,voazimbabwe.com
+DOMAIN-SUFFIX,dengiamerika.com
+DOMAIN-SUFFIX,dengeamerika.com
+DOMAIN-SUFFIX,amerikaninsesi.com
+DOMAIN-SUFFIX,voanouvel.com
+DOMAIN-SUFFIX,voanoticias.com
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wenzhao.ca
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zaobao.com.sg
 # Organizations
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,csis.org
 DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,globalsecurity.org
+DOMAIN-SUFFIX,rolfoundation.org
+DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org

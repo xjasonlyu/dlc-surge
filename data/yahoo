@@ -146,3 +146,4 @@ DOMAIN-SUFFIX,yimg.com
 # All .yahoo domains
 DOMAIN-SUFFIX,yahoo
 DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com

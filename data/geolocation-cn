@@ -3,12 +3,15 @@
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN,apilog-web.acfun.cn
+DOMAIN-SUFFIX,acplay.net
+DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibabagroup.com
 DOMAIN-SUFFIX,alibabacorp.com
 DOMAIN-SUFFIX,alibabaplanet.com
 DOMAIN-SUFFIX,alibabadns.com
+DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alipay.com
@@ -1153,3 +1156,6 @@ DOMAIN-SUFFIX,runsheng.com
 DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,zoom3g.com
 DOMAIN-SUFFIX,zoomyou.cn
+# 京ICP备10040544号
+DOMAIN-SUFFIX,chaoxing.com
+DOMAIN-SUFFIX,chaoxing.cc
