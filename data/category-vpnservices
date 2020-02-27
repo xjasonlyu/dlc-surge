@@ -1,4 +1,6 @@
-# Disclaimer: We do NOT endorse or claim that the VPN services below are legal or safe, please use at your own risk and observe local laws, rules and regulations.
+# DISCLAIMER:
+# We do NOT endorse or claim that the VPN services below are legal or safe.
+# Please use at your own risk and observe local laws, rules and regulations.
 # Reference: https://duyaoss.com/archives/3/
 DOMAIN-SUFFIX,928.plus
 DOMAIN-SUFFIX,zind.cloud
@@ -40,6 +42,8 @@ DOMAIN-SUFFIX,renzhe.cloud
 DOMAIN-SUFFIX,rixcloud.com
 DOMAIN-SUFFIX,shadowsocks.com
 DOMAIN-SUFFIX,shadowsocks.nl
+DOMAIN-SUFFIX,squirrelvpn.com
+DOMAIN-SUFFIX,squirrelgroup.net
 DOMAIN-SUFFIX,ssplive.pw
 DOMAIN-SUFFIX,china-internet-exchange.com
 DOMAIN-SUFFIX,cxkcloud.com
@@ -49,3 +53,12 @@ DOMAIN-SUFFIX,ssrpass.pw
 DOMAIN-SUFFIX,stc-server.com
 DOMAIN-SUFFIX,surflite.co
 DOMAIN-SUFFIX,surflite.net
+DOMAIN-SUFFIX,vilavpn.com
+DOMAIN-SUFFIX,vilavpn.xyz
+DOMAIN-SUFFIX,vilavpn1.xyz
+DOMAIN-SUFFIX,vilavpn2.xyz
+DOMAIN-SUFFIX,vilavpn3.xyz
+DOMAIN-SUFFIX,vilavpn4.xyz
+DOMAIN-SUFFIX,vilavpn5.xyz
+DOMAIN-SUFFIX,vilavpn6.xyz
+DOMAIN-SUFFIX,vilavpn7.xyz

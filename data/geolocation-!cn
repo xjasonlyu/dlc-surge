@@ -1,6 +1,8 @@
 # This list contains domains that don't have access point in China. This is opposite to geolocation-cn.
 # VPN services
-# Disclaimer: We do NOT endorse or claim that the VPN services below are legal or safe, please use at your own risk and observe local laws, rules and regulations.
+# DISCLAIMER:
+# We do NOT endorse or claim that the VPN services below are legal or safe.
+# Please use at your own risk and observe local laws, rules and regulations.
 # Reference: https://duyaoss.com/archives/3/
 DOMAIN-SUFFIX,928.plus
 DOMAIN-SUFFIX,zind.cloud
@@ -42,6 +44,8 @@ DOMAIN-SUFFIX,renzhe.cloud
 DOMAIN-SUFFIX,rixcloud.com
 DOMAIN-SUFFIX,shadowsocks.com
 DOMAIN-SUFFIX,shadowsocks.nl
+DOMAIN-SUFFIX,squirrelvpn.com
+DOMAIN-SUFFIX,squirrelgroup.net
 DOMAIN-SUFFIX,ssplive.pw
 DOMAIN-SUFFIX,china-internet-exchange.com
 DOMAIN-SUFFIX,cxkcloud.com
@@ -51,6 +55,15 @@ DOMAIN-SUFFIX,ssrpass.pw
 DOMAIN-SUFFIX,stc-server.com
 DOMAIN-SUFFIX,surflite.co
 DOMAIN-SUFFIX,surflite.net
+DOMAIN-SUFFIX,vilavpn.com
+DOMAIN-SUFFIX,vilavpn.xyz
+DOMAIN-SUFFIX,vilavpn1.xyz
+DOMAIN-SUFFIX,vilavpn2.xyz
+DOMAIN-SUFFIX,vilavpn3.xyz
+DOMAIN-SUFFIX,vilavpn4.xyz
+DOMAIN-SUFFIX,vilavpn5.xyz
+DOMAIN-SUFFIX,vilavpn6.xyz
+DOMAIN-SUFFIX,vilavpn7.xyz
 # VPN tools & Privacy protection & Anti-GFW & Anti-censorship
 # References:
 # https://github.com/danoctavian/awesome-anti-censorship
@@ -59,6 +72,7 @@ DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
+DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,dat.foundation
 DOMAIN-SUFFIX,democracy.earth
 DOMAIN-SUFFIX,eff.org
@@ -1055,8 +1069,6 @@ DOMAIN-SUFFIX,wordpress.org
 DOMAIN-SUFFIX,wordpress.tv
 DOMAIN-SUFFIX,wp-themes.com
 DOMAIN-SUFFIX,wp.com
-DOMAIN-SUFFIX,xdty.org
-DOMAIN-SUFFIX,xingrz.me
 DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,now.sh
@@ -1261,6 +1273,8 @@ DOMAIN-SUFFIX,amerikaninsesi.com
 DOMAIN-SUFFIX,voanouvel.com
 DOMAIN-SUFFIX,voanoticias.com
 DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,watchout.tw
+DOMAIN-SUFFIX,waa.tw
 DOMAIN-SUFFIX,wenzhao.ca
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
@@ -1379,3 +1393,5 @@ DOMAIN,rarbg.unblocked.vc
 DOMAIN,rarbg.bypassed.org
 DOMAIN-SUFFIX,tsquare.tv
 DOMAIN-SUFFIX,windy.com
+DOMAIN-SUFFIX,xdty.org
+DOMAIN-SUFFIX,xingrz.me
