@@ -1198,6 +1198,11 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imgurinc.com
 DOMAIN-SUFFIX,infrapedia.com
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplatform.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,netlify.com
 # Official site
 DOMAIN-SUFFIX,pinterest.com
@@ -1224,6 +1229,7 @@ DOMAIN-SUFFIX,pinterest.cl
 DOMAIN-SUFFIX,pinterest.ph
 # Others
 DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,protonmail.ch
 DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,protonstatus.com
 DOMAIN-SUFFIX,pm.me
