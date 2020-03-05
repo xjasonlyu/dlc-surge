@@ -70,4 +70,8 @@ DOMAIN-SUFFIX,iphone4s.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,cups.org
