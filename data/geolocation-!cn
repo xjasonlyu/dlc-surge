@@ -27,6 +27,10 @@ DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,duyaossr.com
 DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,xn--90wwvt03e.com
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,justmysocks1.net
+DOMAIN-SUFFIX,justmysocks2.net
+DOMAIN-SUFFIX,justmysocks4.net
 DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,mocloudplus.com
@@ -159,6 +163,11 @@ DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,youporn.com
 # News & Press & Media
+DOMAIN-SUFFIX,afp.com
+DOMAIN-SUFFIX,afpforum.com
+DOMAIN-SUFFIX,americasvoice.news
+DOMAIN-SUFFIX,ap.org
+DOMAIN-SUFFIX,apnews.com
 # Reference: https://zh.wikipedia.org/wiki/%E5%A3%B9%E5%82%B3%E5%AA%92
 DOMAIN-SUFFIX,appledaily.com
 DOMAIN-SUFFIX,appledaily.hk
@@ -219,6 +228,7 @@ DOMAIN-SUFFIX,tynt.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,passiontimes.hk
+DOMAIN-SUFFIX,realvision.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reuters.tv
 DOMAIN-SUFFIX,reutersmedia.net
@@ -229,6 +239,7 @@ DOMAIN-SUFFIX,etvonline.hk
 DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,i-scmp.com
+DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,sinoinsider.com
 DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,thestandnews.com
@@ -280,6 +291,7 @@ DOMAIN-SUFFIX,waa.tw
 DOMAIN-SUFFIX,wenzhao.ca
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,zerohedge.com
 # Tech companies & Orginations
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
@@ -321,6 +333,7 @@ DOMAIN-SUFFIX,apple.ch
 DOMAIN-SUFFIX,apple.cl
 DOMAIN-SUFFIX,apple.cm
 DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple.com.co
 DOMAIN-SUFFIX,apple.co.cr
 DOMAIN-SUFFIX,apple.cz
@@ -375,12 +388,17 @@ DOMAIN-SUFFIX,apple.rs
 DOMAIN-SUFFIX,applecom.com
 DOMAIN-SUFFIX,iphone4s.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com
@@ -1202,6 +1220,9 @@ DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xda-cdn.com
 DOMAIN-SUFFIX,xposed.info
 # Services & Softwares
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthisedge.com
+DOMAIN-SUFFIX,addtoany.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,bitwarden.com

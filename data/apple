@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,apple.ch
 DOMAIN-SUFFIX,apple.cl
 DOMAIN-SUFFIX,apple.cm
 DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple.com.co
 DOMAIN-SUFFIX,apple.co.cr
 DOMAIN-SUFFIX,apple.cz
@@ -68,10 +69,15 @@ DOMAIN-SUFFIX,apple.rs
 DOMAIN-SUFFIX,applecom.com
 DOMAIN-SUFFIX,iphone4s.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,cups.org

@@ -1,3 +1,8 @@
+DOMAIN-SUFFIX,afp.com
+DOMAIN-SUFFIX,afpforum.com
+DOMAIN-SUFFIX,americasvoice.news
+DOMAIN-SUFFIX,ap.org
+DOMAIN-SUFFIX,apnews.com
 # Reference: https://zh.wikipedia.org/wiki/%E5%A3%B9%E5%82%B3%E5%AA%92
 DOMAIN-SUFFIX,appledaily.com
 DOMAIN-SUFFIX,appledaily.hk
@@ -58,6 +63,7 @@ DOMAIN-SUFFIX,tynt.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,passiontimes.hk
+DOMAIN-SUFFIX,realvision.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reuters.tv
 DOMAIN-SUFFIX,reutersmedia.net
@@ -68,6 +74,7 @@ DOMAIN-SUFFIX,etvonline.hk
 DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,i-scmp.com
+DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,sinoinsider.com
 DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,thestandnews.com
@@ -119,3 +126,4 @@ DOMAIN-SUFFIX,waa.tw
 DOMAIN-SUFFIX,wenzhao.ca
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,zerohedge.com
