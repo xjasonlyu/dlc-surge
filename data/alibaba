@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,95095.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibabagroup.com
@@ -6,6 +7,7 @@ DOMAIN-SUFFIX,alibabaplanet.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
@@ -18,9 +20,12 @@ DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alisports.com
 DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,dongting.com
+DOMAIN-SUFFIX,mei.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cainiao-inc.com
 # Taobao
 DOMAIN-SUFFIX,1688.com
@@ -37,6 +42,8 @@ DOMAIN-SUFFIX,pailitao.com
 DOMAIN-SUFFIX,etao.com
 # Fliggy
 DOMAIN-SUFFIX,alitrip.com
+DOMAIN-SUFFIX,feizhu.cn
+DOMAIN-SUFFIX,feizhu.com
 DOMAIN-SUFFIX,fliggy.com
 # amap
 DOMAIN-SUFFIX,amap.com

@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,aixifan.com
 DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,acplay.net
 DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,95095.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibabagroup.com
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,alibabaplanet.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
@@ -25,9 +27,12 @@ DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alisports.com
 DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,dongting.com
+DOMAIN-SUFFIX,mei.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cainiao-inc.com
 # Taobao
 DOMAIN-SUFFIX,1688.com
@@ -44,6 +49,8 @@ DOMAIN-SUFFIX,pailitao.com
 DOMAIN-SUFFIX,etao.com
 # Fliggy
 DOMAIN-SUFFIX,alitrip.com
+DOMAIN-SUFFIX,feizhu.cn
+DOMAIN-SUFFIX,feizhu.com
 DOMAIN-SUFFIX,fliggy.com
 # amap
 DOMAIN-SUFFIX,amap.com
@@ -358,6 +365,7 @@ DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,csdl.ac.cn
 DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,chinamobileltd.com
 # Migu
@@ -366,18 +374,26 @@ DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,189.cn
-DOMAIN-SUFFIX,knet.cn
+DOMAIN-SUFFIX,chinatelecom.com.cn
+DOMAIN-SUFFIX,chntel.com
 DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,10010.com.cn
+DOMAIN-SUFFIX,chinaunicom.com
+DOMAIN-SUFFIX,chinaunicom.com.cn
+DOMAIN-SUFFIX,wo.com.cn
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,coolapkmarket.net
 # 奶牛快传 备案号：蜀ICP备14008877号
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,ctrip.cn
 DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,ctripbiz.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.cn
@@ -392,11 +408,13 @@ DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,msstatic.com
+DOMAIN-SUFFIX,71.am
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
-DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,qy.net
-DOMAIN-SUFFIX,iqiyipic.com
 # CDN used by iqiyi
 DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,a.ckm.iqiyi.com
@@ -419,12 +437,17 @@ DOMAIN-SUFFIX,yuedu.iqiyi.com
 DOMAIN-SUFFIX,360buy.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,360top.com
+DOMAIN-SUFFIX,7fresh.com
+DOMAIN-SUFFIX,baitiao.com
 DOMAIN-SUFFIX,blackdragon.com
+DOMAIN-SUFFIX,chinabank.com.cn
 DOMAIN-SUFFIX,dao123.com
 DOMAIN-SUFFIX,jcloud-cdn.com
 DOMAIN-SUFFIX,jcloud-live.com
 DOMAIN-SUFFIX,jcloud-oss.com
 DOMAIN-SUFFIX,jcloud.com
+DOMAIN-SUFFIX,jcloudcache.com
+DOMAIN-SUFFIX,jcloudcs.com
 DOMAIN-SUFFIX,jclouddn.com
 DOMAIN-SUFFIX,jcloudec.com
 DOMAIN-SUFFIX,jcloudlb.com
@@ -441,17 +464,28 @@ DOMAIN-SUFFIX,jd.cn
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jdcache.com
 DOMAIN-SUFFIX,jdcloud.com
+DOMAIN-SUFFIX,jdcloudcs.com
+DOMAIN-SUFFIX,jdcloud-api.com
 DOMAIN-SUFFIX,jddapeigou.com
+DOMAIN-SUFFIX,jddglobal.com
+DOMAIN-SUFFIX,jdjinrong.com
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,jdx.com
 DOMAIN-SUFFIX,jdwl.com
+DOMAIN-SUFFIX,jingdongjinrong.com
 DOMAIN-SUFFIX,joybuy.com
 DOMAIN-SUFFIX,mayshijia.com
 DOMAIN-SUFFIX,minitiao.com
 DOMAIN-SUFFIX,paidaojia.cn
+DOMAIN-SUFFIX,paipai.com
 DOMAIN-SUFFIX,prestodb-china.com
 DOMAIN-SUFFIX,qianxun.com
 DOMAIN-SUFFIX,toplife.com
 DOMAIN-SUFFIX,vg.com
+DOMAIN-SUFFIX,wangyin.com
 DOMAIN-SUFFIX,wdfok.com
+DOMAIN-SUFFIX,yhd.com
+DOMAIN-SUFFIX,yihaodianimg.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,ads.union.jd.com
 DOMAIN-SUFFIX,c-nfa.jd.com
@@ -480,12 +514,13 @@ DOMAIN-SUFFIX,wsoso.com
 DOMAIN-SUFFIX,mafengwo.cn
 DOMAIN-SUFFIX,mafengwo.com
 DOMAIN-SUFFIX,mafengwo.net
-DOMAIN-SUFFIX,meituan.com
-DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,maoyan.com
-DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,mtyun.com
 DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net

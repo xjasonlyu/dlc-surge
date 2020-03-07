@@ -814,6 +814,7 @@ DOMAIN-SUFFIX,s81c.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 # Reference: https://support.microsoft.com/en-hk/help/2655102/internet-accessible-urls-required-for-connectivity-to-microsoft-dynami
+DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,bing.com
@@ -1337,7 +1338,10 @@ DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,ebayrtm.com
 DOMAIN-SUFFIX,ebaystatic.com
 # Entertainment & Videos & Games & Music
+DOMAIN-SUFFIX,ao3.org
 DOMAIN-SUFFIX,archiveofourown.org
+DOMAIN-SUFFIX,archiveofourown.com
+DOMAIN-SUFFIX,archiveofourown.net
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,btstatic.com
 DOMAIN-SUFFIX,netflix.com
