@@ -301,6 +301,7 @@ DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,adobeoobe.com
 DOMAIN-SUFFIX,behance.net
+DOMAIN-SUFFIX,edgefonts.net
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
@@ -1076,6 +1077,9 @@ DOMAIN-SUFFIX,yimg.com
 # Reference: https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 # All .yahoo domains
 DOMAIN-SUFFIX,yahoo
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,yandex.com
@@ -1251,6 +1255,8 @@ DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,duck.com
+DOMAIN-SUFFIX,entermediadb.net
+DOMAIN-SUFFIX,entermediadb.org
 DOMAIN-SUFFIX,faststone.org
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,gravatar.com
@@ -1292,6 +1298,7 @@ DOMAIN-SUFFIX,protonmail.ch
 DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,protonstatus.com
 DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,steemit.com
@@ -1406,6 +1413,7 @@ DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,globalsecurity.org
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
+DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
