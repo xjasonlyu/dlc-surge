@@ -1,13 +1,19 @@
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
-DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,amazon.com.au
 DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.jp
+DOMAIN-SUFFIX,amzn.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
 # AWS
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,cloudfront.net
+# Prime Video
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,primevideo.com
 # All .aws domains
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,amazon-adsystem.com

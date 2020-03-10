@@ -306,15 +306,21 @@ DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
-DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,amazon.com.au
 DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.jp
+DOMAIN-SUFFIX,amzn.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
 # AWS
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,cloudfront.net
+# Prime Video
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,primevideo.com
 # All .aws domains
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,amazon-adsystem.com
@@ -1350,6 +1356,11 @@ DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,archiveofourown.com
 DOMAIN-SUFFIX,archiveofourown.net
 DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,disney.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disneyredirects.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,btstatic.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
