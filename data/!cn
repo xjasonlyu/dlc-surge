@@ -1459,6 +1459,7 @@ DOMAIN-SUFFIX,w.wiki
 DOMAIN-SUFFIX,wto.org
 # Science & Technology & Knowledge
 DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,arxiv.org
 DOMAIN,chinapower.csis.org
 DOMAIN-SUFFIX,computingreviews.com
 # Elsevier's website,  One of the largest academic publishing companies
