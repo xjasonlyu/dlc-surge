@@ -417,16 +417,6 @@ DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,cups.org
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,cloudflareapps.com
-DOMAIN-SUFFIX,cloudflareinsights.com
-DOMAIN-SUFFIX,cloudflaressl.com
-DOMAIN-SUFFIX,cloudflarestatus.com
-DOMAIN-SUFFIX,cloudflarestream.com
-DOMAIN-SUFFIX,one.one.one.one
-DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.br
 DOMAIN-SUFFIX,facebook.com
@@ -1132,6 +1122,24 @@ DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandex.st
 # All .yandex domains
 DOMAIN-SUFFIX,yandex
+# CDN companies & Services
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflaressl.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,one.one.one.one
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,pagecdn.com
+DOMAIN-SUFFIX,pagecdn.io
+DOMAIN-SUFFIX,quantil.com
+DOMAIN-SUFFIX,stackpath.com
+DOMAIN-SUFFIX,stackpath.dev
 # Certificate authorities
 # Reference: https://en.wikipedia.org/wiki/Certificate_authority
 DOMAIN-SUFFIX,buypass-ssl.com
