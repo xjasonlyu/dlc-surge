@@ -1131,8 +1131,8 @@ DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflaressl.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestream.com
-DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,workers.dev
+DOMAIN,one.one.one.one
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,pagecdn.com
