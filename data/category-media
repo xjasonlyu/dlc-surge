@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,bowenpress.com
+DOMAIN-SUFFIX,cabletv.com.hk
+DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,caijinglengyan.com
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,cnbc.com
@@ -29,6 +31,7 @@ DOMAIN-SUFFIX,cnbcfm.com
 DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,nbcudigitaladops.com
 DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cup.com.hk
 DOMAIN-SUFFIX,d100.net
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,fox.com
@@ -43,8 +46,13 @@ DOMAIN-SUFFIX,globalvoicesonline.org
 DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,gnews.org
 DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,hkcnews.com
+DOMAIN-SUFFIX,hkopentv.com
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hongkongfp.com
 DOMAIN-SUFFIX,inmediahk.net
 DOMAIN-SUFFIX,jfengtime.com
+DOMAIN-SUFFIX,localpresshk.com
 DOMAIN-SUFFIX,ltn.com.tw
 DOMAIN-SUFFIX,yes123.com.tw
 DOMAIN-SUFFIX,matters.news
@@ -55,6 +63,11 @@ DOMAIN-SUFFIX,myradio.com.hk
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nikkei.jp
 DOMAIN-SUFFIX,nikkei.co.jp
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now-ashare.com
 DOMAIN-SUFFIX,ntd.com
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,nytimes.com
@@ -77,10 +90,13 @@ DOMAIN-SUFFIX,i-scmp.com
 DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,sinoinsider.com
 DOMAIN-SUFFIX,soundofhope.org
+DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,init.shop
 DOMAIN-SUFFIX,thestandnews.com
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,udn.com.tw
 DOMAIN-SUFFIX,udnfunlife.com
+DOMAIN-SUFFIX,unwire.hk
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,zeriamerikes.com
 DOMAIN-SUFFIX,glasamerike.net
