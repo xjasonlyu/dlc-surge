@@ -735,6 +735,8 @@ DOMAIN-SUFFIX,widget.weibo.com
 DOMAIN-SUFFIX,woocall.sina.com.cn
 DOMAIN-SUFFIX,zc.biz.weibo.com
 DOMAIN-SUFFIX,zymo.mps.weibo.com
+DOMAIN-SUFFIX,sf-tech.com.cn
+DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,saraba1st.com
 DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,taptap.com
@@ -1167,7 +1169,6 @@ DOMAIN-SUFFIX,sanwen.net
 DOMAIN-SUFFIX,sec-wiki.com
 DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,senlinjimore.com
-DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,sharejs.com
 DOMAIN-SUFFIX,shmetro.com
 DOMAIN-SUFFIX,shutcm.com
