@@ -145,6 +145,8 @@ DOMAIN-SUFFIX,yimg.com
 # Reference: https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 # All .yahoo domains
 DOMAIN-SUFFIX,yahoo
+# All .flickr domains
+DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,staticflickr.com

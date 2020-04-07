@@ -1,5 +1,19 @@
-# All .ms domains
-DOMAIN-SUFFIX,ms
+# All .microsoft domains
+DOMAIN-SUFFIX,microsoft
+# All .azure domains
+DOMAIN-SUFFIX,azure
+# All .bing domains
+DOMAIN-SUFFIX,bing
+# All .hotmail domains
+DOMAIN-SUFFIX,hotmail
+# All .office domains
+DOMAIN-SUFFIX,office
+# All .skype domains
+DOMAIN-SUFFIX,skype
+# All .windows domains
+DOMAIN-SUFFIX,windows
+# All .xbox domains
+DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,aka.ms
@@ -7,10 +21,18 @@ DOMAIN-SUFFIX,applicationinsights.io
 DOMAIN-SUFFIX,applicationinsights.net
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,azure-dns.com
+DOMAIN-SUFFIX,azure-dns.info
+DOMAIN-SUFFIX,azure-dns.net
+DOMAIN-SUFFIX,azure-dns.org
+DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azure-test.net
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azurecomcdn.net
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,azuredns-prd.info
+DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
@@ -45,6 +67,7 @@ DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msft.net
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msocdn.com

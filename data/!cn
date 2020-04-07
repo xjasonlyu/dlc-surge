@@ -322,6 +322,8 @@ DOMAIN-SUFFIX,zerohedge.com
 # Tech companies & Orginations
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobeaemcloud.com
+DOMAIN-SUFFIX,adobeaemcloud.net
 DOMAIN-SUFFIX,adobeccstatic.com
 DOMAIN-SUFFIX,adobedc.net
 DOMAIN-SUFFIX,adobedtm.com
@@ -345,6 +347,7 @@ DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,elasticbeanstalk.com
 # Prime Video
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,primevideo.com
@@ -434,6 +437,8 @@ DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,cups.org
+# All .apple domains
+DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.br
 DOMAIN-SUFFIX,facebook.com
@@ -459,6 +464,8 @@ DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,godaddy.com
+# All .godaddy domains
+DOMAIN-SUFFIX,godaddy
 # List of all domains being operated by Google Inc.
 # Source: https://www.google.com/supported_domains
 DOMAIN-SUFFIX,google.ad
@@ -835,10 +842,26 @@ DOMAIN-SUFFIX,ibm.us
 DOMAIN-SUFFIX,nic.ibm
 DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,s81c.com
+# All .ibm domains
+DOMAIN-SUFFIX,ibm
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
-# All .ms domains
-DOMAIN-SUFFIX,ms
+# All .microsoft domains
+DOMAIN-SUFFIX,microsoft
+# All .azure domains
+DOMAIN-SUFFIX,azure
+# All .bing domains
+DOMAIN-SUFFIX,bing
+# All .hotmail domains
+DOMAIN-SUFFIX,hotmail
+# All .office domains
+DOMAIN-SUFFIX,office
+# All .skype domains
+DOMAIN-SUFFIX,skype
+# All .windows domains
+DOMAIN-SUFFIX,windows
+# All .xbox domains
+DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,aka.ms
@@ -846,10 +869,18 @@ DOMAIN-SUFFIX,applicationinsights.io
 DOMAIN-SUFFIX,applicationinsights.net
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,azure-dns.com
+DOMAIN-SUFFIX,azure-dns.info
+DOMAIN-SUFFIX,azure-dns.net
+DOMAIN-SUFFIX,azure-dns.org
+DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azure-test.net
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azurecomcdn.net
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,azuredns-prd.info
+DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
@@ -884,6 +915,7 @@ DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msft.net
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msocdn.com
@@ -958,11 +990,19 @@ DOMAIN-SUFFIX,nvidia.co.kr
 # Taiwan 台灣
 DOMAIN-SUFFIX,geforce.com.tw
 DOMAIN-SUFFIX,nvidia.com.tw
+# All .java domains
+DOMAIN-SUFFIX,java
+# All .oracle domains
+DOMAIN-SUFFIX,oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,sun.com
+# All .samsung domains
+DOMAIN-SUFFIX,samsung
+# All .삼성 domains
+DOMAIN-SUFFIX,xn--cg4bki
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,samsungapps.com
@@ -1129,15 +1169,19 @@ DOMAIN-SUFFIX,yimg.com
 # Reference: https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 # All .yahoo domains
 DOMAIN-SUFFIX,yahoo
+# All .flickr domains
+DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,yandex.com
-DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandex.st
+DOMAIN-SUFFIX,yandexcloud.net
+DOMAIN-SUFFIX,yastatic.net
 # All .yandex domains
 DOMAIN-SUFFIX,yandex
 # CDN companies & Services
@@ -1149,10 +1193,14 @@ DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflaressl.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN,one.one.one.one
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,pagecdn.com
 DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,quantil.com
@@ -1254,6 +1302,7 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
@@ -1350,6 +1399,7 @@ DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,linguee.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,bitballoon.com
 # Official site
 DOMAIN-SUFFIX,pinterest.com
 # Alternate

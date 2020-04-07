@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,ibm.us
 DOMAIN-SUFFIX,nic.ibm
 DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,s81c.com
+# All .ibm domains
+DOMAIN-SUFFIX,ibm
