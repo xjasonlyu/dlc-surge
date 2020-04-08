@@ -1,6 +1,12 @@
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adsense.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,advertisercommunity.com
+DOMAIN-SUFFIX,advertiserscommunity.com
+DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
+DOMAIN-SUFFIX,adwordsexpress.com
+DOMAIN-SUFFIX,clickserver.googleads.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
@@ -9,4 +15,4 @@ DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
-DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,googletraveladservices.com
