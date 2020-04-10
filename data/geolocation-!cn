@@ -377,6 +377,10 @@ DOMAIN-SUFFIX,haskellstack.org
 DOMAIN-SUFFIX,stackage.org
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,ius.io
+# All .java domains
+DOMAIN-SUFFIX,java
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.net
@@ -1316,15 +1320,19 @@ DOMAIN-SUFFIX,nvidia.co.kr
 # Taiwan 台灣
 DOMAIN-SUFFIX,geforce.com.tw
 DOMAIN-SUFFIX,nvidia.com.tw
-# All .java domains
-DOMAIN-SUFFIX,java
 # All .oracle domains
 DOMAIN-SUFFIX,oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oraclefoundation.org
 DOMAIN-SUFFIX,oracleimg.com
-DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,ateam-oracle.com
+DOMAIN-SUFFIX,bronto.com
 DOMAIN-SUFFIX,sun.com
+# All .java domains
+DOMAIN-SUFFIX,java
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net
 # All .samsung domains
 DOMAIN-SUFFIX,samsung
 # All .삼성 domains
@@ -1645,6 +1653,18 @@ DOMAIN-SUFFIX,entermediadb.org
 DOMAIN-SUFFIX,faststone.org
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,heroku.co
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,heroku.me
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,herokucdn.com
+DOMAIN-SUFFIX,herokucharge.com
+DOMAIN-SUFFIX,herokussl.com
+DOMAIN-SUFFIX,heroku-app.com
+DOMAIN-SUFFIX,heroku-charge.com
+DOMAIN-SUFFIX,codei.sh
+DOMAIN-SUFFIX,codeish.co
+DOMAIN-SUFFIX,codeish.io
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imgurinc.com
 DOMAIN-SUFFIX,infrapedia.com

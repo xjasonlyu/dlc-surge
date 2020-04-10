@@ -55,6 +55,10 @@ DOMAIN-SUFFIX,haskellstack.org
 DOMAIN-SUFFIX,stackage.org
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,ius.io
+# All .java domains
+DOMAIN-SUFFIX,java
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.net
