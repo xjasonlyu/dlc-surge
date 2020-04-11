@@ -4,12 +4,14 @@ DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.jp
+DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 # AWS
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,awstrust.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,elasticbeanstalk.com
 # Prime Video

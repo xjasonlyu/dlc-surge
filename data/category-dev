@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,cython.org
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,dotdeb.org
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,elixir-lang.org
 DOMAIN-SUFFIX,elrepo.org
 DOMAIN-SUFFIX,erlang.org
@@ -90,6 +91,7 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,openresty.org
 DOMAIN-SUFFIX,openssl.org
 DOMAIN-SUFFIX,opensuse.org
