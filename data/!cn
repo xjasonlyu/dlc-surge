@@ -221,6 +221,7 @@ DOMAIN-SUFFIX,globalvoicesonline.org
 DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,gnews.org
 DOMAIN-SUFFIX,gtv1.org
+DOMAIN-SUFFIX,g-tvapp.com
 DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,hkcnews.com
 DOMAIN-SUFFIX,hkopentv.com
@@ -1540,7 +1541,7 @@ DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,workers.dev
-DOMAIN,one.one.one.one
+DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylabs.com
@@ -1591,6 +1592,37 @@ DOMAIN-SUFFIX,hackerguardian.com
 DOMAIN-SUFFIX,instantssl.com
 DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,positivessl.com
+DOMAIN-SUFFIX,digital-id.ch
+DOMAIN-SUFFIX,digitalid.ch
+DOMAIN-SUFFIX,managed-pki.ch
+DOMAIN-SUFFIX,managed-pki.de
+DOMAIN-SUFFIX,pki-post.ch
+DOMAIN-SUFFIX,pki-posta.ch
+DOMAIN-SUFFIX,pki-poste.ch
+DOMAIN-SUFFIX,root-signing.ch
+DOMAIN-SUFFIX,rootsigning.com
+DOMAIN-SUFFIX,ssl-certificate.ch
+DOMAIN-SUFFIX,swissid.ch
+DOMAIN-SUFFIX,swissign.com
+DOMAIN-SUFFIX,swissign.li
+DOMAIN-SUFFIX,swisssign-group.ch
+DOMAIN-SUFFIX,swisssign-group.com
+DOMAIN-SUFFIX,swisssign-group.li
+DOMAIN-SUFFIX,swisssign.ch
+DOMAIN-SUFFIX,swisssign.com
+DOMAIN-SUFFIX,swisssign.li
+DOMAIN-SUFFIX,swisssign.net
+DOMAIN-SUFFIX,swisssign.org
+DOMAIN-SUFFIX,swisssigner.ch
+DOMAIN-SUFFIX,swisssigner.com
+DOMAIN-SUFFIX,swisssigngroup.ch
+DOMAIN-SUFFIX,swisssigngroup.com
+DOMAIN-SUFFIX,swissstick.com
+DOMAIN-SUFFIX,swisstsa.ch
+DOMAIN-SUFFIX,swisstsa.li
+DOMAIN-SUFFIX,trustdoc.ch
+DOMAIN-SUFFIX,trustsign.ch
+DOMAIN-SUFFIX,zert.ch
 DOMAIN-SUFFIX,telekom.com
 DOMAIN-SUFFIX,telekom.de
 DOMAIN-SUFFIX,trustwave.com
@@ -1634,6 +1666,7 @@ DOMAIN-SUFFIX,addtoany.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,digitalocean.com
 # Disqus, Inc.
 # Disqus offers the best add-on tools for websites to increase engagement.
 DOMAIN-SUFFIX,disqus.com

@@ -8,4 +8,4 @@ DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,workers.dev
-DOMAIN,one.one.one.one
+DOMAIN-SUFFIX,one.one.one
